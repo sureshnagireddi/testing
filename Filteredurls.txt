@@ -1,0 +1,81 @@
+http://vopcwlf5q3.opc.ual.com:30272/REST/restservices/boardingstatus/set?airportCode=IAH&fltDate=08/04/2016 00:00:00&carrier=UA&fltNumber=4103&boardingStatus=AllRows   
+
+
+http://vopcwlf5q3.opc.ual.com:30272/REST/restformatter-services/formatter/fidinfo/json?airportCode=ORD&displayType=0&page=1&totalPages=1&linesPerPage=31&legendsPerLine=0&legendTitleLines=0
+
+
+
+http://vopcwlf5q3.opc.ual.com:30272/REST/restformatter-services/formatter/fidinfo/json?airportCode=IAH&displayType=0&page=1&totalPages=1&linesPerPage=30&dateBanner=false&gates=B17&feature=2
+
+
+
+http://vopcwlf5q3.opc.ual.com:30272/REST/restservices/boardingstatus/set?airportCode=IAH&fltDate=08/04/2016 00:00:00&carrier=UA&fltNumber=1666&boardingStatus=BoardingSoon
+
+
+
+
+http://vcld16gqaglwb01.global.ual.com/easyfilteredfids/#/departure/?machineId=iah002
+
+
+http://vcld16gqaglwb01.global.ual.com/easyfilteredfids/#/departure/?machineId=IAH002
+
+
+
+Today i have to do:
+
+Filtered FIDS_some
+ACINA MUFIDS
+Req 732_ Arrival Flights information validation_FIDS Data base.
+Req 751_FilterdFIDS_Gate Change Operation.
+Req_817_DCA Public FIDS_Portrait instead of landscape_FID Departure Screen
+Req 751_FilterdFIDS_Departure Flight_Gate Chang_ Within1HR Window
+Req 751_FilterdFIDS_Departure Flight_Gate Chang_Before1HR Window
+TC001_IAH Video Wall_Black out screen
+TC006_IAH Video Wall_Gate Change to Z1 pier when display with blackout screen.
+TC003_IAH Video Wall_GateChange_Departure flight within 60minutes _Z1 gate
+TC004_IAH Video Wall_GateChage_ Departure flight outside 60min_Z1 gate
+TC07_NDPT_Ontime_FIDS N_Shares N_Boarding Closed_Validation
+TC175_IAH Video Wall_OA flight validation
+TC189_IAH Video Wall_Cancelled Flight_Validaton
+TC191_IAH Video Wall_Boarding soon_Validation
+TC195_IAH Video Wall_BG3_Validation
+TC192_IAH Video Wall_Preboarding_Validation
+TC49_OUT_OFF_Divert_Validate in Remarks
+TC100_RTBL_Ontime_FIDS_N_shares Y_Boarding Soon_Validation
+
+
+
+AAEMU1ZDLVBDVVNUSVZSXVLnRXM9HKqEdex1tgHih4fvSRhx2wG98Fjz+A71V2o78rrz6IM1sZ3CZaJbPir2Qp1aKVKhQzdUWNCk8aQS2nbmx8KnxvRnDEPhCrHoZ0E
+
+Existing Reservation:4:17Am CST
+4:37AM
+
+
+4:52AM
+
+
+5:00AM_   MoreOptions_Baggage_Scenarios_ESP_Baggage policy quantities and fees_Yes_ESP main menu
+5:04Am_   MoreOptions_Baggage_Scenarios_ESP_Baggage Allowance and fees_No PNR
+5:08Am_   MoreOptions_Baggage_Scenarios_ESP_Track my bag_Yes_Already reported as missing_GivenFileNO
+5:18AM_   MoreOptions_Baggage_Scenarios_ESP_Report missing bags_Checked in
+5:20Am_   MoreOptions_Baggage_Scenarios_ESP_Report missing bags_Left onboard
+5:27AM_   MoreOptions_Baggage_Scenarios_ESP_Lost Carryon item
+5:30AM_   MoreOptions_Baggage_Scenarios_ESP_Other options
+          MoreOptions_Baggage DNIS_Scenarios_ESP_Baggage option_Bags main menu
+
+FlightStatus _Scenarios._FLIFO_CodeShare flight_Validation
+FlightStatus _Scenarios_FLIFO_Unitedflight_Both Arrival Departure information
+FlightStatus _Scenarios_FLIFO_Look Up by city_ORD phone area code
+
+
+NAS12948M	7323976735
+IAH14719M	7135158993
+PIT52156M	4123344887
+SFO92020M	4153024499
+ALB27558M	5188573793
+LIT22317M	5014251127
+
+6:29_AAEMU1ZDLVBDVVNUSVZSNY898+M83Q7HstH8yc5DAox1jvF7NGaMeqj8sGitjlRanX5q2U9Fn/VLo03NvjYemO22mYygPAYOck4CxmFHO0Zm5EcjxX5G8le4Jgf2RC8
+
+
+
